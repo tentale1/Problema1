@@ -1,0 +1,85 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+46
+'Por favor inserte el valor del primer número'
+5
+1
+4
+num1
+4
+1
+47
+'Por favor inserte el valor del segundo número'
+5
+1
+4
+num2
+6
+3
+4
+suma
+9
+num1+num2
+5
+resta
+9
+num1-num2
+8
+producto
+9
+num1*num2
+6
+3
+8
+cociente
+9
+num1/num2
+7
+residuo
+13
+num1 mod num2
+9
+logaritmo
+9
+log(num1)
+6
+1
+4
+expo
+9
+num1^num2
+4
+1
+35
+'la suma de los 2 valores es ',suma
+4
+1
+37
+'la resta de los 2 valores es ',resta
+4
+1
+43
+'El producto de los 2 valores es ',producto
+4
+1
+40
+'El cociente de a entre b es ', cociente
+4
+1
+37
+'El residuo de a entre b es ',residuo
+4
+1
+39
+'El logaritmo del número es ',logaritmo
+4
+1
+25
+'El exponencial es ',expo
+1
